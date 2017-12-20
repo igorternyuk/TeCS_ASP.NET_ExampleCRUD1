@@ -1,0 +1,10 @@
+F:\asp\db_contacts\db_contacts\bin\db_contacts.dll
+F:\asp\db_contacts\db_contacts\bin\db_contacts.pdb
+F:\asp\db_contacts\db_contacts\obj\Debug\ResolveAssemblyReference.cache
+F:\asp\db_contacts\db_contacts\obj\Debug\db_contacts.dll
+F:\asp\db_contacts\db_contacts\obj\Debug\db_contacts.pdb
+C:\Documents and Settings\Igor\Рабочий стол\CS_Tutorials\asp\db_contacts\db_contacts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor\Рабочий стол\CS_Tutorials\asp\db_contacts\db_contacts\obj\Debug\db_contacts.dll
+C:\Documents and Settings\Igor\Рабочий стол\CS_Tutorials\asp\db_contacts\db_contacts\obj\Debug\db_contacts.pdb
+C:\Documents and Settings\Igor\Рабочий стол\CS_Tutorials\asp\db_contacts\db_contacts\bin\db_contacts.dll
+C:\Documents and Settings\Igor\Рабочий стол\CS_Tutorials\asp\db_contacts\db_contacts\bin\db_contacts.pdb
